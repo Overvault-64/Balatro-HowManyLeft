@@ -7,4 +7,4 @@ It adds two useful localized lines to standard playing card tooltips:
 - how many cards of the **same rank** are left in the deck;
 - how many cards of the **same suit** are left in the deck.
 
-![Screenshot](screenshots\image.png)
+![Screenshot](screenshots/image.png)
